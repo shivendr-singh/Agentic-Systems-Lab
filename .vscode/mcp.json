@@ -1,0 +1,12 @@
+{
+  "servers": {
+    "sunrise-hostel": {
+      "type": "stdio",
+      "command": "python",
+      "args": ["-m", "hostel_concierge.mcp.server"],
+      "env": {
+        "PYTHONPATH": "${workspaceFolder}/task1/src"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hostel-concierge"
+version = "0.1.0"
+description = "A multi-agent hostel concierge assignment project"
+requires-python = ">=3.11"
+dependencies = ["mcp>=2.3,<3"]
+
+[tool.setuptools.packages.find]
+where = ["src"]

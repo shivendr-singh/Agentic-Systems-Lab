@@ -23,6 +23,6 @@ An extensible workspace for building and testing agentic applications. It curren
 
 ## Getting started
 
-We will implement **Task 1** first. Its README and run instructions will be expanded once the language, agent framework, and MCP SDK are selected. Task 2 will be built and exported separately from n8n.
+We are implementing **Task 1** first. It uses Python 3.11+ and the official Python MCP SDK; see [task1/README.md](task1/README.md) for setup and current progress. Task 2 will be built and exported separately from n8n.
 
 Use fictional data only. Keep API keys and other credentials in local environment configuration; do not commit secrets.

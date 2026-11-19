@@ -1,0 +1,42 @@
+[
+  {
+    "guest_id": "guest-305",
+    "name": "Avery Morgan",
+    "room": "305",
+    "check_in_date": "2026-11-16",
+    "checkout_date": "2026-11-20",
+    "status": "checked-in"
+  },
+  {
+    "guest_id": "guest-204",
+    "name": "Jordan Lee",
+    "room": "204",
+    "check_in_date": "2026-11-18",
+    "checkout_date": "2026-11-22",
+    "status": "checked-in"
+  },
+  {
+    "guest_id": "guest-112",
+    "name": "Sam Taylor",
+    "room": "112",
+    "check_in_date": "2026-11-22",
+    "checkout_date": "2026-11-25",
+    "status": "booked"
+  },
+  {
+    "guest_id": "guest-408",
+    "name": "Riley Chen",
+    "room": "408",
+    "check_in_date": "2026-11-10",
+    "checkout_date": "2026-11-14",
+    "status": "checked-out"
+  },
+  {
+    "guest_id": "guest-217",
+    "name": "Casey Patel",
+    "room": "217",
+    "check_in_date": "2026-11-17",
+    "checkout_date": "2026-11-21",
+    "status": "checked-in"
+  }
+]

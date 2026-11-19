@@ -1,0 +1,67 @@
+{
+  "kitchen_hours": {
+    "breakfast": {
+      "opens": "06:00",
+      "closes": "10:30"
+    },
+    "lunch": {
+      "opens": "11:30",
+      "closes": "14:00"
+    },
+    "dinner": {
+      "opens": "17:00",
+      "closes": "21:00"
+    }
+  },
+  "menu": [
+    {
+      "id": "veg-sandwich",
+      "name": "Vegetable Sandwich",
+      "price": 8.5,
+      "allergens": ["gluten", "dairy"],
+      "stock": 12
+    },
+    {
+      "id": "coffee",
+      "name": "Coffee",
+      "price": 3.0,
+      "allergens": [],
+      "stock": 20
+    },
+    {
+      "id": "peanut-noodles",
+      "name": "Peanut Noodles",
+      "price": 11.0,
+      "allergens": ["peanuts", "soy", "gluten"],
+      "stock": 6
+    },
+    {
+      "id": "chicken-wrap",
+      "name": "Chicken Wrap",
+      "price": 10.5,
+      "allergens": ["gluten", "dairy"],
+      "stock": 8
+    },
+    {
+      "id": "fruit-bowl",
+      "name": "Seasonal Fruit Bowl",
+      "price": 6.0,
+      "allergens": [],
+      "stock": 9
+    },
+    {
+      "id": "tomato-soup",
+      "name": "Tomato Soup",
+      "price": 7.0,
+      "allergens": ["dairy"],
+      "stock": 0
+    },
+    {
+      "id": "pancakes",
+      "name": "Pancakes",
+      "price": 9.0,
+      "allergens": ["gluten", "eggs", "dairy"],
+      "stock": 7
+    }
+  ]
+}
